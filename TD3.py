@@ -213,6 +213,10 @@ S = 0.02
 daily_return = np.random.normal(m, S, n) 
 print(daily_return[:100])  #prints the first 100 daily returns
 
+
+
+
+
 #Stock price simu
 n = 10000
 m = 0.001
